@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CinthiaBezerraSouza, e estou iniciando minha graduação em Ciência da Computação.
-- 👀 Meu interreses são em ser Desenvolvedora de software e sou apaixonada em jogos.
+- Meu interreses são em ser Desenvolvedora de software e sou apaixonada em jogos.
 
 
 
